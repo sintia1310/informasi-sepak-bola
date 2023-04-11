@@ -1,0 +1,24 @@
+{
+    "name": "Prancis La Liga",
+    "short_name": "Sepak Bola",
+    "description": "Aplikasi Information Sepak Bola",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFEBCD",
+    "theme_color": "#FFEBCD",
+    "icons": [
+        {
+            "src": "sepakbola.png",
+            "sizes": "512x512",
+            "type": "image/png"
+            
+        },
+        {
+            "src": "sepakbola2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+            
+          }
+    ],
+    "gcm_sender_id": "635413979738"
+}
